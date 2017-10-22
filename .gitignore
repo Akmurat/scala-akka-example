@@ -1,0 +1,7 @@
+# idea
+.idea
+target
+
+# sbt
+.project/project
+.project/target
